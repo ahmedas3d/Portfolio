@@ -123,7 +123,9 @@ const Home = () => {
         <div className="socials">
           <ul>
             <li>
-              <a href="https://www.facebook.com/profile.php?id=100063766155283">{fb}</a>
+              <a href="https://www.facebook.com/profile.php?id=100063766155283">
+                {fb}
+              </a>
             </li>
             <li>
               <a href="#">{twitter}</a>
@@ -135,7 +137,7 @@ const Home = () => {
         </div>
         <div className="hero_mail">
           <a className="line_anim" href="#">
-            anaahmedasaad.4@gmail.com
+            ahmedxasaad@gmail.com
           </a>
         </div>
       </div>

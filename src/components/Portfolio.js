@@ -68,9 +68,9 @@ const Portfolio = () => {
                   All
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a onClick={handleFilterKeyChange("vimeo")}>Web</a>
-              </li>
+              </li> */}
               <li>
                 <a onClick={handleFilterKeyChange("youtube")}>Mobile App</a>
               </li>
@@ -109,13 +109,13 @@ const Portfolio = () => {
                   <div className="overlay" />
                   {youtube}
                   <div className="details">
-                    <span>Youtube</span>
-                    <h3>Best Phone</h3>
+                    <span>Mobile App</span>
+                    <h3>Best Application</h3>
                   </div>
                   <a
                     className="aali_tm_full_link popup-youtube"
                     href="#"
-                    onClick={() => showPopup("youtube", "7e90gBu4pas")}
+                    // onClick={() => showPopup("youtube", "7e90gBu4pas")}
                   />
                 </div>
               </li>

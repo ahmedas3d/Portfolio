@@ -32,10 +32,10 @@ const Footer = () => {
             <div className="bottom">
               <div className="left">
                 <p>
-                  Designed with {" "}
+                  Designed with{" "}
                   <a
                     className="line_anim"
-                    href="https://themeforest.net/user/codeefly"
+                    href="https://github.com/deadcodee1"
                     target="_blank"
                     rel="noreferrer"
                   >

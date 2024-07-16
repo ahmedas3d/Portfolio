@@ -45,7 +45,7 @@ const Resume = () => {
                           </div>
                           <div className="text">
                             <p>
-                              Aali is a leading web design agency with an
+                              Ahmed is a leading web design agency with an
                               award-winning design
                             </p>
                           </div>
@@ -65,7 +65,7 @@ const Resume = () => {
                           </div>
                           <div className="text">
                             <p>
-                              Aali is a leading web design agency with an
+                              Ahmed is a leading web design agency with an
                               award-winning design
                             </p>
                           </div>
@@ -92,7 +92,7 @@ const Resume = () => {
                           </div>
                           <div className="text">
                             <p>
-                              Aali is a leading web design agency with an
+                              Ahmed is a leading web design agency with an
                               award-winning design
                             </p>
                           </div>
@@ -112,7 +112,7 @@ const Resume = () => {
                           </div>
                           <div className="text">
                             <p>
-                              Aali is a leading web design agency with an
+                              Ahmed is a leading web design agency with an
                               award-winning design
                             </p>
                           </div>
@@ -132,7 +132,7 @@ const Resume = () => {
                           </div>
                           <div className="text">
                             <p>
-                              Aali is a leading web design agency with an
+                              Ahmed is a leading web design agency with an
                               award-winning design
                             </p>
                           </div>
@@ -148,11 +148,11 @@ const Resume = () => {
         <div className="media" data-background-style="video">
           {" "}
           {/* Background Styles: "video" and "image" // Also you can use any youtube, vimeo, and local videos */}
-          <div
+          {/* <div
             className="video jarallax"
             data-speed={0}
             data-jarallax-video="https://vimeo.com/337293658"
-          />
+          /> */}
           <div
             className="image jarallax"
             data-speed={0}
